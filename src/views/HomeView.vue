@@ -3,23 +3,16 @@
 		<div class="q-pa-xl row justify-center">
 			<div class="gt-sm col-auto"></div>
 			<div class="col-xs-12 col-md-8 flexCenter vert">
-				<svg version="1.1" id="HexLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-					<g>
-						<path style="fill:#262626;" d="M49.5,0l42,25.3v49.5l-42,25.3l-42-25.3V25.3L49.5,0z"/>
-					</g>
-					<g>
-						<circle style="fill:#F5F5F5;" cx="50" cy="50" r="5"/>
-					</g>
-					<g>
-						<path style="fill:#F5F5F5;" d="M58.1,53.3L58.1,53.3c1.6,0,2.9,0.7,3.9,2c4.1,4.8,3.8,10.8-0.6,15.4c-1.5,1.3-2.6,2.3-3.5,2.8c-1.1,0.8-3.8,1.5-4.3,1.5c-1.2,0-4.9-0.2-4.9-0.2c-1.2,0-2.8-0.4-4.8-1.2L42.8,73c-0.9-0.7-1.4-1.6-1.4-2.7c0-1.4,5.4-2,6.6-2.2c3.2-0.5,5.9-0.5,7.8-3.2c1.3-2.2,0.6-4.6-1.3-6.3c-1.3-1.7-0.6-3.8,1.4-4.9C56.7,53.4,57.4,53.3,58.1,53.3z"/>
-						<path style="fill:#F5F5F5;" d="M25.7,25.1c1.8,0,3.1,0.7,4.1,2.2c0.3,0.5,0.4,0.9,0.4,1.3v42.9c0,1.2-0.8,2.3-2.4,3.2c-0.6,0.2-1,0.3-1.2,0.3H25c-0.7,0-1.6-0.4-2.5-1.1c-0.8-0.8-1.2-1.6-1.2-2.4c0,0,0-0.2,0-0.5V29c0-1.8,1.1-3.1,3.3-3.7C24.9,25.1,25.3,25.1,25.7,25.1z"/>
-						<path style="fill:#F5F5F5;" d="M24.9,75h28.5c0.3,0,0.7-0.1,1.3-0.3c1.6-0.8,2.4-1.9,2.4-3.2v-0.3c0-0.2-0.1-0.6-0.2-0.9c-0.8-1.8-2.4-2.7-4.7-2.7H30.1"/>
-					</g>
-					<g>
-						<path style="fill:#F5F5F5;" d="M42,46.8L42,46.8c-1.6,0-2.9-0.7-3.9-2C34,39.9,34.3,34,38.7,29.4c1.5-1.3,2.6-2.3,3.5-2.8c1.1-0.8,3.8-1.5,4.3-1.5c1.2,0,4.9,0.2,4.9,0.2c1.2,0,2.8,0.4,4.8,1.2l1.1,0.7c0.9,0.7,1.4,1.6,1.4,2.7c0,1.4-5.4,2-6.6,2.2c-3.2,0.5-5.9,0.5-7.8,3.2c-1.3,2.2-0.6,4.6,1.3,6.3c1.3,1.7,0.6,3.8-1.4,4.9C43.4,46.6,42.7,46.8,42,46.8z"/>
-						<path style="fill:#F5F5F5;" d="M74.4,75c-1.8,0-3.1-0.7-4.1-2.2c-0.3-0.5-0.4-0.9-0.4-1.3V28.5c0-1.2,0.8-2.3,2.4-3.2c0.6-0.2,1-0.3,1.2-0.3h1.6c0.7,0,1.6,0.4,2.5,1.1c0.8,0.8,1.2,1.6,1.2,2.4c0,0,0,0.2,0,0.5v42.1c0,1.8-1.1,3.1-3.3,3.7C75.3,75,74.8,75,74.4,75z"/>
-						<path style="fill:#F5F5F5;" d="M75.3,25.1H46.7c-0.3,0-0.7,0.1-1.3,0.3c-1.6,0.8-2.4,1.9-2.4,3.2v0.3c0,0.2,0.1,0.6,0.2,0.9c0.8,1.8,2.4,2.7,4.7,2.7H70"/>
-					</g>
+				<svg id="HexLogo" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+					<polygon points="500,0 933,250 933,750 500,1000 67,750 67,250" fill="#2E5F9C" />
+					<circle cx="500" cy="500" r="50" fill="#F5F5F5" />
+					<path d="M500,280L760,280" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M760,280L760,720" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M500,720L240,720" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M500,720L240,720" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M240,720L240,280" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M420,420C380,360,420,280,500,280" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
+					<path d="M580,580C620,640,580,720,500,720" fill="none" stroke="#F5F5F5" stroke-width="101" stroke-linecap="round" />
 				</svg>
 				<h1 class="q-pt-xl text-h2 titleFont text-center">Template - VueViteQuasar</h1>
 			</div>
@@ -43,7 +36,7 @@
 						<p class="text-body1">Enterprise-ready cross-platform UI & component framework for Vue.</p>
 					</li>
 				</ul>
-				<p class="text-body1">Also includes: <span class="text-weight-bold">ESLint & Prettier</span> for code formatting and maintaining best practices, <span class="text-weight-bold">SASS</span> CSS preprocessor, <span class="text-weight-bold">Vue Router</span> to handle routing for single page web applications, and <span class="text-weight-bold">Pinia</span> for state management.</p>
+				<p class="text-body1">Also includes: <span class="text-weight-bold">ESLint</span> & <span class="text-weight-bold">Prettier</span> for code formatting and maintaining best practices, <span class="text-weight-bold">SASS</span> CSS preprocessor, <span class="text-weight-bold">Vue Router</span> to handle routing for single page web applications, and <span class="text-weight-bold">Pinia</span> for state management.</p>
 			</div>
 			<div class="gt-sm col-auto"></div>
 		</div>
