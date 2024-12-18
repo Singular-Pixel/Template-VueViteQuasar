@@ -24,7 +24,7 @@
 				<p class="text-body1">This template has been built to quickly spin up new front-end projects with zero initial configuration required.<br>Pre-packaged & configured packages include the main 3 mentioned in the title:</p>
 				<ul>
 					<li class="q-mt-md">
-						<span class="text-body1 text-weight-bold">Vite 5 (<a href="https://vitejs.dev/" target="_blank">https://vitejs.dev/</a>)</span>
+						<span class="text-body1 text-weight-bold">Vite 6 (<a href="https://vitejs.dev/" target="_blank">https://vitejs.dev/</a>)</span>
 						<p class="text-body1">Front-end developer tooling with local server, dependency resolving & bundling, and hot module replacement.</p>
 					</li>
 					<li class="q-mt-md">
