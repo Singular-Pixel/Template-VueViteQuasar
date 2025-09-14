@@ -5,7 +5,7 @@ This template has been built to quickly spin up new front-end projects with zero
 
 Pre-packaged & configured packages include the main 3 mentioned in the title:
 
-* **Vite 5** ([https://vitejs.dev/](https://vitejs.dev/))  
+* **Vite 7** ([https://vitejs.dev/](https://vitejs.dev/))  
 Front-end developer tooling with local server, dependency resolving & bundling, and hot module replacement.  
 
 * **Vue 3** ([https://vuejs.org/](https://vuejs.org/))  
